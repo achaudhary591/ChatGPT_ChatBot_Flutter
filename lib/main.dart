@@ -19,6 +19,7 @@ class MyHomePage extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'ChatBot',
       theme: ThemeData(
+        useMaterial3: true,
         primarySwatch: Colors.cyan,
       ),
     );
