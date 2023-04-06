@@ -1,1 +1,0 @@
-const APIKEY = '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';
